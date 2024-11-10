@@ -19,7 +19,7 @@ $objeto3 = new Objeto("Agenda de reuniões", "Agenda de reuniões - ano 2023", 0
 $objeto4 = new Objeto("Notebook", "Notebook Dell - queimado", 2.100);
 
 $pasta1 = new Pasta("Relatórios de Compras da empresa", "Pasta contendo relatórios de Compras da empresa", "Financeiro");
-$pasta2 = new Pasta("Admissões - Julho/2020", "Pasta com registros das admissões da empresa no no mês de Julho de 2020", "RH");
+$pasta2 = new Pasta("Admissões - Julho/2020", "Pasta com registros das admissões da empresa no mês de Julho de 2020", "RH");
 $pasta3 = new Pasta("Contas a Receber", "Pasta com contas a receber - Maio/2024", "Finaceiro");
 $pasta4 = new Pasta("Folders para recepção", "Pasta com folders para deixar na recepção da empresa", "Marketing");
 

@@ -6,7 +6,7 @@ class Gaveta
 {
     private array $itens = [];
 
-    public function __construct($itens)
+    public function __construct(array $itens)
     {
         $this->setItens($itens);
         

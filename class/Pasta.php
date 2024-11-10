@@ -31,8 +31,3 @@ class Pasta extends Item{
     }
 }
 
-// $pasta = new Pasta('teste', 'pasta teste', 'contas');
-// echo "{$pasta->getNome()}<br>";
-// echo "{$pasta->getDescricao()}<br>";
-// echo "{$pasta->getCategoria()}";
-// echo "{$pasta->mostrarTipoItem()}";

@@ -7,7 +7,7 @@ class Escritorio
 {
     private array $armarios = [];
 
-    public function __construct($armarios)
+    public function __construct(array $armarios)
     {
         $this->setArmarios($armarios);
     }

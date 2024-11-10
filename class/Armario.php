@@ -5,7 +5,7 @@ require_once('Gaveta.php');
 class Armario{
     private array $gavetas = [];
 
-    public function __construct($gavetas){
+    public function __construct(array $gavetas){
      $this->setGavetas($gavetas);
     }
 
